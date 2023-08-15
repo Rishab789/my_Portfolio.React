@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div name="about" className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white">
 
-        <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
+        <div className=" pb-56 md:pb-0 max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
 
             <div className="pb-8"> 
                 <p className="text-4xl font-bold inline border-b-4 border-gray-500">
@@ -13,12 +13,12 @@ const About = () => {
             </div>
 
             <p className="text-xl mt-20 ">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam suscipit nemo totam error sapiente aperiam assumenda aliquid dolores commodi tempora minus placeat exercitationem neque autem consequatur ratione amet cum voluptatibus, molestias accusantium soluta consectetur architecto praesentium? Quod fuga quis modi voluptate, quos, voluptatibus harum, provident suscipit ipsum eaque laudantium? Ea?
+             I am in my initial growth, seeking for any opportunities to start with. I have experience in HTML, CSS and JavaScript, and I'm also familiar with popular framework such as React.js. I have a passion for crafting beautiful and intuitive user interfaces and strive to create delightful experience for my users. I pay close attention to details when creating my applications.
             </p>
             <br/>
 
-            <p className="text-xl6 ">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae corporis similique voluptates quisquam est? Unde ea molestiae numquam modi fuga cum, animi quidem aut possimus repudiandae, repellat ipsum quos dolores adipisci iure. Odit nesciunt iusto sit aliquam possimus impedit nihil? Enim odit consequuntur eveniet aperiam praesentium sed, amet iure perspiciatis.
+            <p className="text-xl ">
+               I have some hands on experience on servicenow modules, mainly in ITSM module. I have worked with Agile methodology in the servicenow and created Business Rules, Client Scripts, Catalog Items, Script Includes, Flow Designing, ACLs and Rest API Integration.
             </p>
         </div>
 

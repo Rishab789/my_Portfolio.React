@@ -10,7 +10,7 @@ export const Home = () => {
       
         <div className="   max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row min-w-full">
         <div >
-            <img src={HeroImage} alt="my profile" className=" rounded-2xl mx-auto ml-10px mb-[100px]  w-full  md:w-full md:ml-[-70px]"  />
+            <img src={HeroImage} alt="my profile" className=" rounded-2xl mx-auto ml-10px mb-[100px]  w-full  md:w-full md:ml-[-70px] md:mb-0"  />
          </div>
 
             <div className="flex flex-col justify-center mt-16 ml-24  h-4 w-full md:ml-[-80px]">
